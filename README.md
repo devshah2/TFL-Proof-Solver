@@ -6,6 +6,6 @@
  Conjunction: &
  Disjunction: |
  Conditional: >
- Biconditional: <>
+ Biconditional: <
  Negation: ~
  Contradiction: / 
